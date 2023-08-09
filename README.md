@@ -1,7 +1,4 @@
 ## Calculadora de IMC
-# TESTE
-Projeto em React + typescript
-fazendo uma calculadora de IMC.
 
 Projeto desenvolvido durante o curso [B7web](https://b7web.com.br)
 
@@ -9,7 +6,7 @@ Projeto desenvolvido durante o curso [B7web](https://b7web.com.br)
 [github](https://github.com/carlosaw/ReactJS-IMC)
 
 ## homepage
-[github.io](https://carlosaw.github.io/ReactJS-IMC)
+[vercel](https://react-js-imc.vercel.app/)
 
 ### Instalação
 - `npm install`
