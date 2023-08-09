@@ -32,7 +32,7 @@ const App = () => {
     <div className={styles.main}>
       <header>
         <div className={styles.headerContainer}>
-          <img src={powerImage} alt='' width={150}/>
+          <img src={powerImage} alt='' width={200}/>
         </div>
       </header>
       <div className={styles.container}>
